@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRApplication", "SignalRApplication\SignalRApplication.csproj", "{59F2A83A-1EFB-4C0C-8DA2-2235F4054275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F2A83A-1EFB-4C0C-8DA2-2235F4054275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F2A83A-1EFB-4C0C-8DA2-2235F4054275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F2A83A-1EFB-4C0C-8DA2-2235F4054275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F2A83A-1EFB-4C0C-8DA2-2235F4054275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6819824B-0F60-4004-BF36-67C2FEF6DEAB}
+	EndGlobalSection
+EndGlobal
